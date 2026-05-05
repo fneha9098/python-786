@@ -1,0 +1,82 @@
+[
+  {
+    "id": "P001",
+    "name": "Apple iPhone 15",
+    "price": 999.0,
+    "cost": 750.0,
+    "stock": 24,
+    "category": "Electronics",
+    "barcode": "100001",
+    "supplier": "Apple Inc"
+  },
+  {
+    "id": "P002",
+    "name": "Samsung Galaxy S24",
+    "price": 849.0,
+    "cost": 620.0,
+    "stock": 18,
+    "category": "Electronics",
+    "barcode": "100002",
+    "supplier": "Samsung"
+  },
+  {
+    "id": "P003",
+    "name": "Wireless Headphones",
+    "price": 149.99,
+    "cost": 60.0,
+    "stock": 50,
+    "category": "Electronics",
+    "barcode": "100003",
+    "supplier": "Generic"
+  },
+  {
+    "id": "P004",
+    "name": "Coffee Mug",
+    "price": 12.99,
+    "cost": 3.0,
+    "stock": 100,
+    "category": "Kitchen",
+    "barcode": "200001",
+    "supplier": "HomeGoods"
+  },
+  {
+    "id": "P005",
+    "name": "Running Shoes",
+    "price": 89.99,
+    "cost": 35.0,
+    "stock": 4,
+    "category": "Footwear",
+    "barcode": "300001",
+    "supplier": "SportCo"
+  },
+  {
+    "id": "P006",
+    "name": "Notebook A4",
+    "price": 5.99,
+    "cost": 1.5,
+    "stock": 200,
+    "category": "Stationery",
+    "barcode": "400001",
+    "supplier": "PaperCo"
+  },
+  {
+    "id": "P007",
+    "name": "USB-C Cable 2m",
+    "price": 19.99,
+    "cost": 5.0,
+    "stock": 3,
+    "category": "Electronics",
+    "barcode": "100004",
+    "supplier": "TechParts"
+  },
+  {
+    "id": "P008",
+    "name": "Protein Bar",
+    "price": 3.49,
+    "cost": 1.2,
+    "stock": 80,
+    "category": "Food",
+    "barcode": "500001",
+    "supplier": "NutriCo"
+  }
+]

@@ -1,0 +1,2 @@
+[2026-04-22 14:50:07] load(products): expected list, got dict — resetting
+[2026-04-22 14:50:07] load(customers): expected list, got dict — resetting

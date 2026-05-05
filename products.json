@@ -1,0 +1,44 @@
+{
+    "1": {
+        "product_id": "1",
+        "name": "cake",
+        "price": 500.0,
+        "stock": 4,
+        "category": "bakery"
+    },
+    "2": {
+        "product_id": "2",
+        "name": "pepsi",
+        "price": 200.0,
+        "stock": 15,
+        "category": "cold drink"
+    },
+    "3": {
+        "product_id": "3",
+        "name": "cake",
+        "price": 500.0,
+        "stock": 13,
+        "category": "bakery"
+    },
+    "4": {
+        "product_id": "4",
+        "name": "coca cola",
+        "price": 200.0,
+        "stock": 15,
+        "category": "cold drink"
+    },
+    "5": {
+        "product_id": "5",
+        "name": "eggs",
+        "price": 30.0,
+        "stock": 40,
+        "category": "bakery"
+    },
+    "6": {
+        "product_id": "6",
+        "name": "cat food",
+        "price": 500.0,
+        "stock": 50,
+        "category": "pet food"
+    }
+}

@@ -1,0 +1,17 @@
+[
+  {
+    "user": "admin",
+    "action": "Logged in",
+    "time": "2026-04-22 14:50:09"
+  },
+  {
+    "user": "admin",
+    "action": "Logged in",
+    "time": "2026-04-22 15:01:42"
+  },
+  {
+    "user": "admin",
+    "action": "Sale T20260422150224 $999.00",
+    "time": "2026-04-22 15:02:24"
+  }
+]

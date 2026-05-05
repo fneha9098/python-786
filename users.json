@@ -1,0 +1,27 @@
+{
+    "admin": {
+        "password": "admin123",
+        "role": "admin",
+        "full_name": "System Administrator"
+    },
+    "staff1": {
+        "password": "staff123",
+        "role": "staff",
+        "full_name": "John Staff"
+    },
+    "user1": {
+        "password": "user123",
+        "role": "user",
+        "full_name": "Regular Customer"
+    },
+    "user2": {
+        "password": "user123",
+        "role": "user",
+        "full_name": "Guest Customer"
+    },
+    "sehar": {
+        "password": "nayab123",
+        "role": "user",
+        "full_name": "nayab"
+    }
+}

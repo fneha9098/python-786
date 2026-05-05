@@ -1,0 +1,8 @@
+{
+    "store_name": "Smart Store",
+    "currency": "$",
+    "low_stock_threshold": 5,
+    "return_days": 7,
+    "points_rate": 10,
+    "theme": "dark"
+}

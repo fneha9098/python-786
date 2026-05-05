@@ -1,0 +1,16 @@
+{
+    "1": {
+        "product_id": "1",
+        "name": "eggs",
+        "price": 30.0,
+        "cost_price": 0,
+        "stock": 50,
+        "category": "bakery",
+        "barcode": "123",
+        "image_path": "",
+        "supplier": "faryal",
+        "reorder_point": 5,
+        "ratings": [],
+        "times_sold": 0
+    }
+}

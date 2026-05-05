@@ -1,0 +1,13 @@
+{
+    "products": [
+        {
+            "product_id": "PROD_1",
+            "name": "cake",
+            "price": 500.0,
+            "quantity": 50,
+            "category": "bakery",
+            "sku": "123"
+        }
+    ],
+    "transactions": []
+}

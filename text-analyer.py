@@ -41,7 +41,7 @@ title = tk.Label(root, text="Text Analyzer Tool",
 title.pack(pady=10)
 
 # -------- Text Input --------
-tk.Label(root, text="Enter Sentence:", bg="#e6f2ff").pack()
+tk.Label()
 box = tk.Text(root, height=4, width=35)
 box.pack(pady=5)
 

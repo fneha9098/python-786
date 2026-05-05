@@ -1,0 +1,20 @@
+{
+  "admin": {
+    "password": "240be518fabd2724ddb6f04eeb1da5967448d7e831c08c8fa822809f74c720a9",
+    "role": "admin",
+    "full_name": "System Administrator",
+    "email": "admin@store.com"
+  },
+  "staff1": {
+    "password": "10176e7b7b24d317acfcf8d2064cfd2f24e154f7b5a96603077d5ef813d6a6b6",
+    "role": "staff",
+    "full_name": "John Staff",
+    "email": "staff@store.com"
+  },
+  "cashier1": {
+    "password": "c246650737293ddc18fc357393db78d1ecc9d1fd1af95469115e4a29f983359a",
+    "role": "cashier",
+    "full_name": "Mary Cashier",
+    "email": "cashier@store.com"
+  }
+}

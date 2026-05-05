@@ -1,0 +1,22 @@
+[
+  {
+    "id": "C001",
+    "name": "John Smith",
+    "phone": "555-0101",
+    "email": "john@email.com",
+    "address": "123 Main St",
+    "join_date": "2026-04-22",
+    "points": 250,
+    "total_spent": 500.0
+  },
+  {
+    "id": "C002",
+    "name": "Sarah Johnson",
+    "phone": "555-0102",
+    "email": "sarah@email.com",
+    "address": "456 Oak Ave",
+    "join_date": "2026-04-22",
+    "points": 120,
+    "total_spent": 200.0
+  }
+]

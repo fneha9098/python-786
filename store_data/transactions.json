@@ -1,0 +1,43 @@
+[
+  {
+    "transaction_id": 1,
+    "items": [
+      [
+        "eggs",
+        1,
+        30.0
+      ]
+    ],
+    "total": 30.0,
+    "discount": 0,
+    "final_total": 30.0,
+    "cashier": "admin",
+    "payment_method": "Cash",
+    "customer_id": null,
+    "points_used": 0,
+    "points_earned": 0,
+    "status": "Completed",
+    "date": "2026-04-21 16:03:07"
+  },
+  {
+    "id": "T20260422150224",
+    "date": "2026-04-22 15:02:24",
+    "items": [
+      {
+        "id": "P001",
+        "name": "Apple iPhone 15",
+        "price": 999.0,
+        "qty": 1
+      }
+    ],
+    "customer_id": null,
+    "customer_name": "Walk-in",
+    "subtotal": 999.0,
+    "discount": 0.0,
+    "tax": 0.0,
+    "total": 999.0,
+    "payment": "Card",
+    "cashier": "admin",
+    "returned": false
+  }
+]
